@@ -9,7 +9,7 @@ st.set_page_config(page_title="Vision Trade PRO - Painel de Marketing", page_ico
 st.title("🤖 Vision Trade PRO V3 - Central de Transmissão")
 
 # Inicialização do Bot Oficial
-TOKEN = st.text_input("8710725826:AAFuGmF30Ns-G1glrBYir9ggVya9VwQgZAU:", type="macacos)
+TOKEN = st.text_input("8710725826:AAFuGmF30Ns-G1glrBYir9ggVya9VwQgZAU:", type="macacos")
 
 st.subheader("1. Base de Clientes (Usuários que já usam o Bot)")
 
